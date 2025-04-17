@@ -2,7 +2,7 @@
 
 ---
 
-## 🧩 [I - Introduction to ExpressJS](https://daaif.net/article/express-js-introduction)
+## 🧩 I - Introduction to ExpressJS [Article](https://daaif.net/article/express-js-introduction)
 1. [Exercise 1: Simple ExpressJS Server](#-exercise-1-simple-expressjs-server)
 2. [Exercise 2: ExpressJS Project Setup](#-exercise-2-expressjs-project-setup)
 
