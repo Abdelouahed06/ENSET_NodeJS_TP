@@ -411,7 +411,7 @@ module.exports = router;
 ---
 
 
-## 🧩 III - Middlewares in ExpressJS [🌐 Exercise Page](https://daaif.net/article/express-js-middlewares){target="_blank"}
+## 🧩 III - Middlewares in ExpressJS [🌐 Exercise Page](https://daaif.net/article/express-js-middlewares)
 1. [Exercise 1: Create a Custom Logging Middleware](#-exercise-1-create-a-custom-logging-middleware)
 2. [Exercise 2: Implement a Simple Authentication Middleware](#-exercise-2-implement-a-simple-authentication-middleware)
 3. [Exercise 3: Use Popular Third-Party Middlewares](#-exercise-3-use-popular-third-party-middlewares)
