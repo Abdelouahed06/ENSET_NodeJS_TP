@@ -2,7 +2,7 @@
 
 ---
 
-## ## 🧩 I - Introduction to ExpressJS [🌐 Exercise Page](https://daaif.net/article/express-js-introduction){target="_blank"}
+## ## 🧩 I - Introduction to ExpressJS [🌐 Exercise Page](https://daaif.net/article/express-js-introduction)
 1. [Exercise 1: Simple ExpressJS Server](#-exercise-1-simple-expressjs-server)
 2. [Exercise 2: ExpressJS Project Setup](#-exercise-2-expressjs-project-setup)
 
@@ -135,7 +135,7 @@ module.exports = router;
 
 ---
 
-## 🧩 II - Routage avec ExpressJS [🌐 Exercise Page](https://daaif.net/article/express-js-routage){target="_blank"}
+## 🧩 II - Routing with ExpressJS [🌐 Exercise Page](https://daaif.net/article/express-js-routage)
 1. [Exercise 1: Basic Task Manager API](#-exercise-1-basic-task-manager-api)
 2. [Exercise 2: Implementing Parameterized Routes](#-exercise-2-implementing-parameterized-routes)
 3. [Exercise 3: Organizing an Application with Modular Routers](#-exercise-3-organizing-an-application-with-modular-routers)
@@ -411,7 +411,7 @@ module.exports = router;
 ---
 
 
-## 🧩 III - Les Middlewares dans ExpressJS [🌐 Exercise Page](https://daaif.net/article/express-js-middlewares){target="_blank"}
+## 🧩 III - Middlewares in ExpressJS [🌐 Exercise Page](https://daaif.net/article/express-js-middlewares){target="_blank"}
 1. [Exercise 1: Create a Custom Logging Middleware](#-exercise-1-create-a-custom-logging-middleware)
 2. [Exercise 2: Implement a Simple Authentication Middleware](#-exercise-2-implement-a-simple-authentication-middleware)
 3. [Exercise 3: Use Popular Third-Party Middlewares](#-exercise-3-use-popular-third-party-middlewares)
